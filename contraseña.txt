@@ -1,0 +1,7 @@
+admin: 
+usuario:jose@gmail.com
+contraseña:12345
+
+demo:
+usuario:demo@gmail.com
+contraseña:12345
